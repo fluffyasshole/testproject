@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB20-60</Machine>
+    <WindowsUser>asp</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5e77f9d9-798f-4d7d-8ca0-bae7b7ca9968</PackageIdentityName>
+    <PackageIdentityPublisher>CN=asp</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\asp\documents\visual studio 2015\Projects\binding\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\binding.exe">
+      <PackagePath>binding.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\580b57fcd9996e24bc43c543.png">
+      <PackagePath>Assets\580b57fcd9996e24bc43c543.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\business-woman.png">
+      <PackagePath>Assets\business-woman.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\bn.jpg">
+      <PackagePath>Assets\bn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\dgdfgdfgd.jpg">
+      <PackagePath>Assets\dgdfgdfgd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\Assets\fhf.jpg">
+      <PackagePath>Assets\fhf.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\binding.xr.xml">
+      <PackagePath>binding.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\productDetail.xbf">
+      <PackagePath>productDetail.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\asp\documents\visual studio 2015\Projects\binding\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
